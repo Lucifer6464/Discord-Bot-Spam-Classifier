@@ -35,4 +35,4 @@ async def on_message(message):
                 # await message.guild.unban(message.author)
 
 
-client.run("OTYyMDk5Mzk2MjYxMDc3MDQz.YlCm4w.oMWzClLChSp3pOzl_lqk-VTWRa0")
+client.run("TOKEN")
